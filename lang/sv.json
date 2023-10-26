@@ -238,7 +238,7 @@
     "error410Body": "Denna reslänk har nått sin slutdestination och kommer inte att ge sig ut på fler resor. Den är borta permanent!",
     "error500Title": "Oj då! 500 - Tågavspårning",
     "error500Body": "Våra servrar har gått av spåret! Vi arbetar för att få dem tillbaka på rutten. Vänligen försök igen senare.",
-    "leaderboard": "Visas i den offentliga <a href='{leaderboard_url}'>topplistan</a>",
+    "leaderboardText": "Visas i den offentliga <a href='{leaderboard_url}'>topplistan</a>",
     "noData": "Ingen data att visa",
     "importText": "Importera Trainlog-fil",
     "exportText": "Exportera alla resor som CSV",
@@ -270,5 +270,14 @@
     "shareLevel2": "Åtkomst till offentlig profil",
     "shareLevel0Details": "Ditt konto förblir helt privat. Ingen kan se några detaljer eller innehåll.",
     "shareLevel1Details": "Enskilda resor kan delas med hjälp av res-ID:er, vilket döljer personuppgifter. Men den <a href='{public_link}'>offentliga profilen</a> förblir otillgänglig.",
-    "shareLevel2Details": "Din <a href='{public_link}'>offentliga profil</a> kan nås via ditt användarnamn."
+    "shareLevel2Details": "Din <a href='{public_link}'>offentliga profil</a> kan nås via ditt användarnamn.",
+    "coverage": "Täckning",
+    "leaderboard": "Topplista",
+    "EU": "Europa",
+    "AF": "Afrika",
+    "AS": "Asien",
+    "NA": "Nordamerika",
+    "CA": "Centralamerika",
+    "SA": "Sydamerika",
+    "OC": "Oceanien"
 }

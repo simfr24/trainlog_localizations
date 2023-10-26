@@ -238,7 +238,7 @@
     "error410Body": "Ez az utazási link elérte végső célját, és nem indul több útra. Végleg eltűnt!",
     "error500Title": "Hoppá! 500 - Vonat kisiklás",
     "error500Body": "Szervereink elmentek a pályáról! Azon dolgozunk, hogy visszatereljük őket az útvonalra. Kérlek, próbáld újra később.",
-    "leaderboard": "Jelenjen meg a nyilvános <a href='{leaderboard_url}'>ranglistán</a>",
+    "leaderboardText": "Jelenjen meg a nyilvános <a href='{leaderboard_url}'>ranglistán</a>",
     "noData": "nincs megjeleníthető adat",
     "importText": "Trainlog fájl importálása",
     "exportText": "Az összes utazás exportálása csv-ként",
@@ -270,5 +270,14 @@
     "shareLevel2": "Nyilvános profilhoz való hozzáférés",
     "shareLevel0Details": "A fiókja teljesen privát marad. Senki sem tekintheti meg a részleteket vagy a tartalmat.",
     "shareLevel1Details": "Az egyéni utazásokat utazási ID-k segítségével lehet megosztani, elrejtve a személyes adatokat. De a <a href='{public_link}'>nyilvános profil</a> továbbra is elérhetetlen marad.",
-    "shareLevel2Details": "A <a href='{public_link}'>nyilvános profilod</a> elérhető a felhasználóneveden keresztül."
+    "shareLevel2Details": "A <a href='{public_link}'>nyilvános profilod</a> elérhető a felhasználóneveden keresztül.",
+    "coverage": "Lefedettség",
+    "leaderboard": "Rangsor",
+    "EU": "Európa",
+    "AF": "Afrika",
+    "AS": "Ázsia",
+    "NA": "Észak-Amerika",
+    "CA": "Közép-Amerika",
+    "SA": "Dél-Amerika",
+    "OC": "Óceánia"
 }

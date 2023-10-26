@@ -238,7 +238,7 @@
     "error410Body": "Ten link dotarł do miejsca docelowego i nie wyruszy już w żadną podróż. Zniknął na stałe!",
     "error500Title": "Ups! 500 - Wykolejenie pociągu",
     "error500Body": "Nasze serwery przestały działać! Pracujemy nad tym, aby przywrócić je na włąsciwe tory. Spróbuj ponownie później.",
-    "leaderboard": "Pojawić się na pojawić w <a href='{leaderboard_url}'>rankingu</a>",
+    "leaderboardText": "Pojawić się na pojawić w <a href='{leaderboard_url}'>rankingu</a>",
     "noData": "Brak danych do wyświetlenia",
     "importText": "Importuj plik Trainlog",
     "exportText": "Eksportuj wszystkie podróże jako CSV",
@@ -270,5 +270,14 @@
     "shareLevel2": "Dostęp do publicznego profilu",
     "shareLevel0Details": "Twoje konto pozostaje całkowicie prywatne. Nikt nie może przeglądać żadnych szczegółów ani treści.",
     "shareLevel1Details": "Indywidualne wycieczki można udostępniać za pomocą identyfikatorów wycieczek, ukrywając dane osobowe. Jednak <a href='{public_link}'>profil publiczny</a> pozostaje niedostępny.",
-    "shareLevel2Details": "Do Twojego <a href='{public_link}'>publicznego profilu</a> można uzyskać dostęp za pomocą Twojej nazwy użytkownika."
+    "shareLevel2Details": "Do Twojego <a href='{public_link}'>publicznego profilu</a> można uzyskać dostęp za pomocą Twojej nazwy użytkownika.",
+    "coverage": "Pokrycie",
+    "leaderboard": "Tablica wyników",
+    "EU": "Europa",
+    "AF": "Afryka",
+    "AS": "Azja",
+    "NA": "Ameryka Północna",
+    "CA": "Ameryka Środkowa",
+    "SA": "Ameryka Południowa",
+    "OC": "Oceania"
 }

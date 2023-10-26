@@ -238,7 +238,7 @@
     "error410Body": "Deze reislink heeft zijn eindbestemming bereikt en gaat niet meer op reis. Het is permanent weg!",
     "error500Title": "Oeps! 500 - Trein ontspoord",
     "error500Body": "Onze servers zijn van het spoor geraakt! We werken eraan om ze weer op het juiste spoor te krijgen. Probeer het later opnieuw.",
-    "leaderboard": "Verschijn op het algemene <a href='{leaderboard_url}'>ranglijst</a>",
+    "leaderboardText": "Verschijn op het algemene <a href='{leaderboard_url}'>ranglijst</a>",
     "noData": "Geen gegevens om te tonen",
     "importText": "Trainlog-bestand importeren",
     "exportText": "Exporteer alle ritten als csv",
@@ -270,5 +270,14 @@
     "shareLevel2": "Toegang tot openbaar profiel",
     "shareLevel0Details": "Uw account blijft volledig privé. Niemand kan details of inhoud bekijken.",
     "shareLevel1Details": "Individuele reizen kunnen worden gedeeld met behulp van reis-ID's, waardoor persoonlijke gegevens worden verborgen. Maar het <a href='{public_link}'>openbare profiel</a> blijft ontoegankelijk.",
-    "shareLevel2Details": "Je <a href='{public_link}'>openbare profiel</a> kan worden geopend via je gebruikersnaam."
+    "shareLevel2Details": "Je <a href='{public_link}'>openbare profiel</a> kan worden geopend via je gebruikersnaam.",
+    "coverage": "Dekking",
+    "leaderboard": "Ranglijst",
+    "EU": "Europa",
+    "AF": "Afrika",
+    "AS": "Azië",
+    "NA": "Noord-Amerika",
+    "CA": "Midden-Amerika",
+    "SA": "Zuid-Amerika",
+    "OC": "Oceanië"
 }

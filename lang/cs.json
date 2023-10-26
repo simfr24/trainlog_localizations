@@ -238,7 +238,7 @@
     "error410Body": "Tento odkaz na výlet dosáhl své konečné destinace a nevydá se na žádné další cesty. Je trvale pryč!",
     "error500Title": "Jejda! 500 - Vykolejený vlak",
     "error500Body": "Naše servery vypadly z kolejí! Snažíme se je dostat zpět na správnou cestu. Zkuste to prosím později.",
-    "leaderboard": "Zobrazte se na veřejném <a href='{leaderboard_url}'>žebříčku</a>",
+    "leaderboardText": "Zobrazte se na veřejném <a href='{leaderboard_url}'>žebříčku</a>",
     "noData": "Žádná data k zobrazení",
     "importText": "Importovat Trainlog soubor",
     "exportText": "Exportovat všechny výlety jako CSV",
@@ -270,5 +270,14 @@
     "shareLevel2": "Přístup k veřejnému profilu",
     "shareLevel0Details": "Váš účet zůstává zcela soukromý. Nikdo nemůže zobrazit žádné detaily nebo obsah.",
     "shareLevel1Details": "Individuální výlety lze sdílet pomocí ID výletů, přičemž se skrývají osobní údaje. Ale <a href='{public_link}'>veřejný profil</a> zůstává nedostupný.",
-    "shareLevel2Details": "Váš <a href='{public_link}'>veřejný profil</a> je dostupný přes vaše uživatelské jméno."
+    "shareLevel2Details": "Váš <a href='{public_link}'>veřejný profil</a> je dostupný přes vaše uživatelské jméno.",
+    "coverage": "Pokrytí",
+    "leaderboard": "Žebříček",
+    "EU": "Evropa",
+    "AF": "Afrika",
+    "AS": "Asie",
+    "NA": "Severní Amerika",
+    "CA": "Střední Amerika",
+    "SA": "Jižní Amerika",
+    "OC": "Oceánie"
 }

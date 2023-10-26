@@ -238,7 +238,7 @@
     "error410Body": "Bu yolculuk linki son istasyonuna ulaştı ve başka bir yolculuğa çıkmayacak. Sonsuza kadar gitti!",
     "error500Title": "500 - Raydan Çıktı!",
     "error500Body": "Sunucularımız raydan çıkmış gibi görünüyor. An itibariyle kendilerini raya tekrar sokmakla meşguluz. Lütfen bir süre sonra tekrar deneyin!",
-    "leaderboard": "Herkese açık <a href='{leaderboard_url}'>skorbordda</a> görünmek istiyorum",
+    "leaderboardText": "Herkese açık <a href='{leaderboard_url}'>skorbordda</a> görünmek istiyorum",
     "noData": "Gösterilecek veri yok.",
     "importText": "Trainlog dosyasını içe aktar",
     "exportText": "Tüm gezileri csv olarak dışa aktar",
@@ -270,5 +270,14 @@
     "shareLevel2": "Halka açık profil erişimi",
     "shareLevel0Details": "Hesabınız tamamen özel kalır. Kimse hiçbir detayı veya içeriği görüntüleyemez.",
     "shareLevel1Details": "Bireysel geziler, kişisel verileri gizleyerek gezinti ID'leri kullanılarak paylaşılabilir. Ancak, <a href='{public_link}'>kamu profili</a> erişilemez kalır.",
-    "shareLevel2Details": "<a href='{public_link}'>Halka açık profilinize</a> kullanıcı adınız aracılığıyla erişilebilir."
+    "shareLevel2Details": "<a href='{public_link}'>Halka açık profilinize</a> kullanıcı adınız aracılığıyla erişilebilir.",
+    "coverage": "Kapsama",
+    "leaderboard": "Lider tablosu",
+    "EU": "Avrupa",
+    "AF": "Afrika",
+    "AS": "Asya",
+    "NA": "Kuzey Amerika",
+    "CA": "Orta Amerika",
+    "SA": "Güney Amerika",
+    "OC": "Okyanusya"
 }

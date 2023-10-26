@@ -238,7 +238,7 @@
     "error410Body": "This trip link has reached its final destination and won't be embarking on any more journeys. It's permanently gone!",
     "error500Title": "Whoops! 500 - Train Derailment",
     "error500Body": "Our servers have gone off track! We're working to get them back on route. Please try again later.",
-    "leaderboard": "Appear in the public <a href='{leaderboard_url}'>leaderboard</a>",
+    "leaderboardText": "Appear in the public <a href='{leaderboard_url}'>leaderboard</a>",
     "noData": "No data to display",
     "importText": "Import Trainlog file",
     "exportText": "Export all trips as CSV",
@@ -270,5 +270,14 @@
     "shareLevel2": "Public profile access",
     "shareLevel0Details": "Your account remains entirely private. No one can view any details or content.",
     "shareLevel1Details": "Individual trips can be shared using trip-IDs, hiding personal data. But the <a href='{public_link}'>public profile</a> remains inaccessible.",
-    "shareLevel2Details": "Your <a href='{public_link}'>public profile</a> can be accessed via your username."
+    "shareLevel2Details": "Your <a href='{public_link}'>public profile</a> can be accessed via your username.",
+    "coverage": "Coverage",
+    "leaderboard": "Leaderboard",
+    "EU": "Europe",
+    "AF": "Africa",
+    "AS": "Asia",
+    "NA": "North America",
+    "CA": "Central America",
+    "SA": "South America",
+    "OC": "Oceania"
 }

@@ -238,7 +238,7 @@
     "error410Body": "Tämä matkalinkki on saavuttanut lopullisen määränpäänsä eikä lähde enää lisämatkoille. Se on pysyvästi poissa!",
     "error500Title": "Hups! 500 - Junan suistuminen raiteilta",
     "error500Body": "Palvelimemme ovat menneet väärälle raiteelle! Työskentelemme saadaksemme ne takaisin reitille. Yritä myöhemmin uudelleen.",
-    "leaderboard2": "Näy julkisessa <a href='{leaderboard_url}'>tulostaulussa</a>",
+    "leaderboardText": "Näy julkisessa <a href='{leaderboard_url}'>tulostaulussa</a>",
     "noData": "Ei näytettäviä tietoja",
     "importText": "Tuo trainlog-tiedosto",
     "exportText": "Vie kaikki matkat csv-muodossa",
@@ -270,5 +270,14 @@
     "shareLevel2": "Julkisen profiilin käyttöoikeus",
     "shareLevel0Details": "Tilisi pysyy täysin yksityisenä. Kukaan ei voi nähdä yksityiskohtia tai sisältöä.",
     "shareLevel1Details": "Yksittäisiä matkoja voidaan jakaa käyttäen matka-ID:eitä, henkilökohtaiset tiedot piilottaen. Mutta <a href='{public_link}'>julkinen profiili</a> pysyy saavuttamattomissa.",
-    "shareLevel2Details": "<a href='{public_link}'>Julkinen profiilisi</a> on saatavilla käyttäjänimesi kautta."
+    "shareLevel2Details": "<a href='{public_link}'>Julkinen profiilisi</a> on saatavilla käyttäjänimesi kautta.",
+    "coverage": "Kattavuus",
+    "leaderboard": "Tulostaulukko",
+    "EU": "Eurooppa",
+    "AF": "Afrikka",
+    "AS": "Aasia",
+    "NA": "Pohjois-Amerikka",
+    "CA": "Keski-Amerikka",
+    "SA": "Etelä-Amerikka",
+    "OC": "Oseania"
 }

@@ -238,7 +238,7 @@
     "error410Body": "Denne reiselinken har nådd sin endelige destinasjon og vil ikke dra på flere reiser. Den er permanent borte!",
     "error500Title": "Oops! 500 - Togavsporing",
     "error500Body": "Serverne våre har gått av sporet! Vi jobber med å få dem tilbake på rute. Vennligst prøv igjen senere.",
-    "leaderboard": "Vises i den generelle <a href='{leaderboard_url}'>rangeringen</a>",
+    "leaderboardText": "Vises i den generelle <a href='{leaderboard_url}'>rangeringen</a>",
     "noData": "Ingen data å vise",
     "importText": "Importer trainlog-fil",
     "exportText": "Eksporter alle reiser som csv",
@@ -270,5 +270,14 @@
     "shareLevel2": "Tilgang til offentlig profil",
     "shareLevel0Details": "Kontoen din forblir helt privat. Ingen kan se noen detaljer eller innhold.",
     "shareLevel1Details": "Individuelle turer kan deles ved bruk av tur-IDer, skjuler persondata. Men <a href='{public_link}'>offentlig profil</a> forblir utilgjengelig.",
-    "shareLevel2Details": "Din <a href='{public_link}'>offentlige profil</a> kan nås via ditt brukernavn."
+    "shareLevel2Details": "Din <a href='{public_link}'>offentlige profil</a> kan nås via ditt brukernavn.",
+    "coverage": "Dekning",
+    "leaderboard": "Rangeringsliste",
+    "EU": "Europa",
+    "AF": "Afrika",
+    "AS": "Asia",
+    "NA": "Nord-Amerika",
+    "CA": "Sentral-Amerika",
+    "SA": "Sør-Amerika",
+    "OC": "Oseania"
 }

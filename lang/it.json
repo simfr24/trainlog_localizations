@@ -238,7 +238,7 @@
     "error410Body": "Questo link ha raggiunto la sua destinazione finale e non partirà più per un altro viaggio... Se n'è andato definitivamente!",
     "error500Title": "Ops! 500 - Deragliamento del treno",
     "error500Body": "I nostri server hanno deragliato! Stiamo lavorando per rimetterli in carreggiata. Riprova più tardi.",
-    "leaderboard": "Apparire nella <a href='{leaderboard_url}'>classifica</a> generale",
+    "leaderboardText": "Apparire nella <a href='{leaderboard_url}'>classifica</a> generale",
     "noData": "Nessun dato da mostrare",
     "importText": "Importa un file Trainlog",
     "exportText": "Esporta tutti i viaggi in formato csv",
@@ -270,5 +270,14 @@
     "shareLevel2": "Accesso al profilo pubblico",
     "shareLevel0Details": "Il tuo account rimane completamente privato. Nessuno può visualizzare alcun dettaglio o contenuto.",
     "shareLevel1Details": "I viaggi individuali possono essere condivisi utilizzando ID viaggio, nascondendo i dati personali. Ma il <a href='{public_link}'>profilo pubblico</a> rimane inaccessibile.",
-    "shareLevel2Details": "Il tuo <a href='{public_link}'>profilo pubblico</a> può essere accesso tramite il tuo nome utente."
+    "shareLevel2Details": "Il tuo <a href='{public_link}'>profilo pubblico</a> può essere accesso tramite il tuo nome utente.",
+    "coverage": "Copertura",
+    "leaderboard": "Classifica",
+    "EU": "Europa",
+    "AF": "Africa",
+    "AS": "Asia",
+    "NA": "Nord America",
+    "CA": "America Centrale",
+    "SA": "Sud America",
+    "OC": "Oceania"
 }

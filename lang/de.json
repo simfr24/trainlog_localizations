@@ -238,7 +238,7 @@
     "error410Body": "Dieser Reiselink hat sein endgültiges Ziel erreicht und wird keine weiteren Reisen unternehmen. Es ist dauerhaft weg!",
     "error500Title": "Hoppla! 500 – Zugentgleisung",
     "error500Body": "Unsere Server sind aus dem Ruder gelaufen! Wir arbeiten daran, sie wieder auf die Strecke zu bringen. Bitte versuchen Sie es später noch einmal.",
-    "leaderboard": "Erscheine in der öffentlichen <a href='{leaderboard_url}'>Bestenliste</a>",
+    "leaderboardText": "Erscheine in der öffentlichen <a href='{leaderboard_url}'>Bestenliste</a>",
     "noData": "Keine Daten zum Anzeigen",
     "importText": "Trainlog-datei importieren",
     "exportText": "Exportieren sie alle reisen als csv",
@@ -270,5 +270,14 @@
     "shareLevel2": "Zugang zum öffentlichen Profil",
     "shareLevel0Details": "Ihr Konto bleibt vollständig privat. Niemand kann Details oder Inhalte ansehen.",
     "shareLevel1Details": "Einzelausflüge können unter Verwendung von Reise-IDs geteilt werden, wobei persönliche Daten verborgen bleiben. Aber das <a href='{public_link}'>öffentliche Profil</a> bleibt unzugänglich.",
-    "shareLevel2Details": "Auf Ihr <a href='{public_link}'>öffentliches Profil</a> kann über Ihren Benutzernamen zugegriffen werden."
+    "shareLevel2Details": "Auf Ihr <a href='{public_link}'>öffentliches Profil</a> kann über Ihren Benutzernamen zugegriffen werden.",
+    "coverage": "Abdeckung",
+    "leaderboard": "Bestenliste",
+    "EU": "Europa",
+    "AF": "Afrika",
+    "AS": "Asien",
+    "NA": "Nordamerika",
+    "CA": "Mittelamerika",
+    "SA": "Südamerika",
+    "OC": "Ozeanien"
 }
