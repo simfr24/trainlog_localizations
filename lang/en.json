@@ -32,7 +32,7 @@
     "delete": "Delete",
     "trips": "Trips",
     "slavTrips24": "",
-    "singularTrip": "singularTrip",
+    "singularTrip": "Trip",
     "pTrips": "Trips (public)",
     "tripList": "Trips Overview",
     "projectList": "Projects Overview",
