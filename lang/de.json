@@ -228,6 +228,11 @@
         "Konto löschen :",
         [
             "Wenn Sie Ihr Konto löschen möchten, ist dies derzeit nicht direkt implementiert, aber senden Sie bitte eine E-Mail an <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> und der Administrator wird fortfahren die Löschung Ihres Kontos"
+        ],
+        "Hilfe und Unterstützung :",
+        [
+            "Holen Sie sich Ratschläge, Unterstützung und treten Sie der Community auf dem Trainlog Discord über den untenstehenden Link bei",
+            "Oder kontaktieren Sie den Administrator unter <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a>"
         ]
     ],
     "error401Title": "Festhalten! 401 – Ticketkontrolle",
@@ -279,5 +284,7 @@
     "NA": "Nordamerika",
     "CA": "Mittelamerika",
     "SA": "Südamerika",
-    "OC": "Ozeanien"
+    "OC": "Ozeanien",
+    "countriesLoadingMessage": "<h3>Bitte warten Sie, während wir Ihre Abdeckung des Schienennetzes kartieren</h3><br> Rechnen Sie mit einer längeren Ladezeit für größere Schienennetze (Jetzt könnte der Moment sein, eine Tasse Ihres Lieblingsheißgetränks zu greifen ☕)",
+    "notes": "Notizen"
 }

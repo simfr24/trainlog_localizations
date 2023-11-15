@@ -228,6 +228,11 @@
         "Supprimer le compte :",
         [
             "Si vous souhaitez supprimer votre compte, cela n'est actuellement pas possible directement dans l'interface, mais veuillez envoyer un e-mail à <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> et l'Admin procédera à la suppression de votre compte"
+        ],
+        "Aide et support :",
+        [
+            "Obtenez des conseils, du support et rejoignez la communauté sur le Discord de Trainlog avec le lien ci-dessous",
+            "Ou contactez l'administrateur à l'adresse <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a>"
         ]
     ],
     "error401Title": "Stop ! 401 - Contrôle des billets",
@@ -279,5 +284,7 @@
     "NA": "Amérique du Nord",
     "CA": "Amérique centrale",
     "SA": "Amérique du Sud",
-    "OC": "Océanie"
+    "OC": "Océanie",
+    "countriesLoadingMessage": "<h3>Veuillez attendre pendant que nous cartographions votre couverture du réseau ferroviaire</h3><br> Attendez-vous à un chargement plus long pour les grands réseaux ferroviaires (C'est peut-être le moment de prendre une tasse de votre boisson chaude préférée ☕)",
+    "notes": "Notes"
 }
