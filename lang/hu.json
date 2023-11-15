@@ -228,6 +228,11 @@
         "Fiók törlése:",
         [
             "Ha törölni szeretné fiókját, az jelenleg nincs közvetlenül implementálva, de kérjük, küldjön egy e-mailt a <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> címre, és az adminisztrátor törli a fiókját"
+        ],
+        "Segítség és támogatás :",
+        [
+            "Kapjon tanácsokat, támogatást és csatlakozzon a közösséghez a Trainlog Discord-on az alábbi linken keresztül",
+            "Vagy lépjen kapcsolatba az adminisztrátorral a következő címen: <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a>"
         ]
     ],
     "error401Title": "Kitartás! 401 - Jegyellenőrzés",
@@ -279,5 +284,7 @@
     "NA": "Észak-Amerika",
     "CA": "Közép-Amerika",
     "SA": "Dél-Amerika",
-    "OC": "Óceánia"
+    "OC": "Óceánia",
+    "countriesLoadingMessage": "<h3>Kérjük, várjon, amíg leképezzük a vasúthálózatra vonatkozó lefedettségét</h3><br> Várjon hosszabb betöltést nagyobb vasúti hálózatoknál (Most talán itt az ideje, hogy megragad egy csésze kedvenc forró italából ☕)",
+    "notes": "Jegyzetek"
 }

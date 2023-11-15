@@ -228,6 +228,11 @@
         "Radera konto:",
         [
             "Om du vill radera ditt konto är det för närvarande inte implementerat direkt, men skicka gärna ett e-postmeddelande till <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> och administratören kommer att fortsätta med raderingen av ditt konto"
+        ],
+        "Hjälp och support :",
+        [
+            "Få råd, stöd och bli medlem i gemenskapen på Trainlog Discord med länken nedan",
+            "Eller kontakta administratören på <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a>"
         ]
     ],
     "error401Title": "Vänta! 401 - Biljettkontroll",
@@ -279,5 +284,7 @@
     "NA": "Nordamerika",
     "CA": "Centralamerika",
     "SA": "Sydamerika",
-    "OC": "Oceanien"
+    "OC": "Oceanien",
+    "countriesLoadingMessage": "<h3>Vänligen vänta medan vi kartlägger din täckning av järnvägsnätet</h3><br> Förvänta längre laddningstid för större järnvägsnätverk (Nu kan det vara dags att ta en kopp av din favorit varma dryck ☕)",
+    "notes": "Anteckningar"
 }

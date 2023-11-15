@@ -228,6 +228,11 @@
         "Poista tili:",
         [
             "Jos haluat poistaa tilisi, sitä ei ole tällä hetkellä toteutettu suoraan, mutta lähetä sähköpostia osoitteeseen <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> ja Admin suorittaa tilisi poistamisen"
+        ],
+        "Apua ja tukea :",
+        [
+            "Hanki neuvoja, tukea ja liity yhteisöön Trainlog Discordissa alla olevan linkin kautta",
+            "Tai ota yhteyttä ylläpitäjään osoitteessa <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a>"
         ]
     ],
     "error401Title": "Odota! 401 - Lipuntarkastus",
@@ -279,5 +284,7 @@
     "NA": "Pohjois-Amerikka",
     "CA": "Keski-Amerikka",
     "SA": "Etelä-Amerikka",
-    "OC": "Oseania"
+    "OC": "Oseania",
+    "countriesLoadingMessage": "<h3>Odota hetki, kun karttamme sinun kattavuutesi rautatieverkostossa</h3><br> Odota pidempi latausaika suuremmille rautatieverkoille (Nyt saattaa olla aika ottaa kuppi suosikki kuuma juomasi ☕)",
+    "notes": "Muistiinpanot"
 }

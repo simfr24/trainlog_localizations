@@ -228,6 +228,11 @@
         "Account verwijderen:",
         [
             "Als je je account wilt verwijderen, is dit momenteel niet direct geïmplementeerd, maar stuur een e-mail naar <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> en de beheerder zal doorgaan met het verwijderen van je account"
+        ],
+        "Hulp en ondersteuning :",
+        [
+            "Krijg advies, ondersteuning en sluit je aan bij de community op de Trainlog Discord met de link hieronder",
+            "Of neem contact op met de beheerder via <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a>"
         ]
     ],
     "error401Title": "Wacht even! 401 - Ticketcontrole",
@@ -279,5 +284,7 @@
     "NA": "Noord-Amerika",
     "CA": "Midden-Amerika",
     "SA": "Zuid-Amerika",
-    "OC": "Oceanië"
+    "OC": "Oceanië",
+    "countriesLoadingMessage": "<h3>Wacht alstublieft terwijl we uw dekking van het spoorwegnetwerk in kaart brengen</h3><br> Verwacht een langere laadtijd voor grotere spoorwegnetwerken (Nu kan het misschien tijd zijn om een kopje van uw favoriete warme drank te nemen ☕)",
+    "notes": "Notities"
 }

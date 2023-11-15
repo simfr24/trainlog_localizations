@@ -228,6 +228,11 @@
         "Delete account :",
         [
             "Should you want to delete your account, it is currently not implemented directly, but please send an email to <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> and the Admin will proceed to the deletion of your account"
+        ],
+        "Help and support :",
+        [
+            "Get advices, support and join community on the Trainlog Discord with the link below",
+            "Or contact the admin at <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a>"
         ]
     ],
     "error401Title": "Hold on! 401 - Ticket Check",
@@ -279,5 +284,7 @@
     "NA": "North America",
     "CA": "Central America",
     "SA": "South America",
-    "OC": "Oceania"
+    "OC": "Oceania",
+    "countriesLoadingMessage": "<h3>Please wait as we map your coverage of the rail network</h3><br> Expect longer loading for larger railway networks (Now may be the time to grab a cup of your favourite hot beverage ☕)",
+    "notes": "Notes"
 }
