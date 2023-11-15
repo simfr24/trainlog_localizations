@@ -228,6 +228,11 @@
         "Smazání účtu:",
         [
             "Pokud si přejete smazat svůj účet, v současné době není přímo implementováno, ale zašlete e-mail na <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> a administrátor provede smazání vašeho účtu"
+        ],
+        "Pomoc a podpora :",
+        [
+            "Získejte rady, podporu a přidejte se k komunitě na Discordu Trainlog pomocí odkazu níže",
+            "Nebo kontaktujte správce na <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a>"
         ]
     ],
     "error401Title": "Počkejte! 401 - Kontrola lístku",
@@ -279,5 +284,7 @@
     "NA": "Severní Amerika",
     "CA": "Střední Amerika",
     "SA": "Jižní Amerika",
-    "OC": "Oceánie"
+    "OC": "Oceánie",
+    "countriesLoadingMessage": "<h3>Prosím, vyčkejte, zatímco mapujeme vaše pokrytí železniční sítě</h3><br> U větších železničních sítí očekávejte delší načítání (Nyní může být vhodný čas na šálek vašeho oblíbeného horkého nápoje ☕)",
+    "notes": "Poznámky"
 }

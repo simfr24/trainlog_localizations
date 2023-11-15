@@ -228,6 +228,11 @@
         "Eliminar cuenta:",
         [
             "Si desea eliminar su cuenta, actualmente no está implementado directamente, pero por favor envíe un correo electrónico a <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> y el Administrador procederá a la eliminación de su cuenta"
+        ],
+        "Ayuda y soporte :",
+        [
+            "Obtén consejos, soporte y únete a la comunidad en el Discord de Trainlog con el enlace de abajo",
+            "O contacta al administrador en <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a>"
         ]
     ],
     "error401Title": "¡Espera! 401 - Control de Boleto",
@@ -279,5 +284,7 @@
     "NA": "América del Norte",
     "CA": "América Central",
     "SA": "América del Sur",
-    "OC": "Oceanía"
+    "OC": "Oceanía",
+    "countriesLoadingMessage": "<h3>Por favor, espera mientras mapeamos tu cobertura de la red ferroviaria</h3><br> Espera una carga más larga para redes ferroviarias más grandes (Ahora puede ser el momento de tomar una taza de tu bebida caliente favorita ☕)",
+    "notes": "Notas"
 }

@@ -228,6 +228,11 @@
         "Usuwanie konto:",
         [
             "Obecnie nie ma możliwości samodzielnego usunięcia konta. Prośbę o usunięcie konta można wysłać mailem administratorowi na adres <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a>."
+        ],
+        "Pomoc i wsparcie :",
+        [
+            "Zdobądź porady, wsparcie i dołącz do społeczności na Discordzie Trainlog za pomocą poniższego linku",
+            "Lub skontaktuj się z administratorem na <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a>"
         ]
     ],
     "error401Title": "401 - Proszę przygotować bilety do kontroli",
@@ -279,5 +284,7 @@
     "NA": "Ameryka Północna",
     "CA": "Ameryka Środkowa",
     "SA": "Ameryka Południowa",
-    "OC": "Oceania"
+    "OC": "Oceania",
+    "countriesLoadingMessage": "<h3>Proszę czekać, mapujemy Twoje pokrycie sieci kolejowej</h3><br> Spodziewaj się dłuższego ładowania dla większych sieci kolejowych (Teraz może być czas na filiżankę Twojego ulubionego gorącego napoju ☕)",
+    "notes": "Notatki"
 }

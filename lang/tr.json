@@ -228,6 +228,11 @@
         "Hesabınızı kalıcı olarak silme :",
         [
             "Hesabınızı silmek istemeniz durumunda (bu sistem an itibariyle aktif olmadığından) site yöneticisine bir e-posta göndererek silme işlemlerini başlatabilirsiniz. E-posta: <a href=mailto:admin@trainlog.me>admin@trainlog.me</a>"
+        ],
+        "Yardım ve destek :",
+        [
+            "Tavsiyeler alın, destek olun ve aşağıdaki link ile Trainlog Discord topluluğuna katılın",
+            "Veya <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> adresindeki yöneticiyle iletişime geçin"
         ]
     ],
     "error401Title": "Dur bakayım, 401 - Biletler lütfen!",
@@ -279,5 +284,7 @@
     "NA": "Kuzey Amerika",
     "CA": "Orta Amerika",
     "SA": "Güney Amerika",
-    "OC": "Okyanusya"
+    "OC": "Okyanusya",
+    "countriesLoadingMessage": "<h3>Lütfen demiryolu ağınızın kapsamını haritalandırırken bekleyin</h3><br> Daha büyük demiryolu ağları için daha uzun yükleme süresi bekleyin (Şimdi, favori sıcak içeceğinizden bir fincan almanın zamanı olabilir ☕)",
+    "notes": "Notlar"
 }

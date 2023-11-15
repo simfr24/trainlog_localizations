@@ -18,7 +18,7 @@
     "map": "Kaart",
     "bus": "Bus",
     "train": "Trein",
-    "air": "Vliegveld",
+    "air": "Vliegtuig",
     "newTripStart": "Begin nieuwe reis",
     "newTripEnd": "Einde nieuwe reis",
     "submit": "Verzenden",
@@ -36,7 +36,7 @@
     "pTrips": "Reizen (openbaar)",
     "tripList": "Reisoverzicht",
     "projectList": "Projectoverzicht",
-    "pProjects": "Projecten (openbaar)",
+    "pProjects": "Openbare projecten",
     "selectedTripList": "Geselecteerde reizen",
     "tripLength": "Reisduur",
     "tripSpeed": "Gemiddelde snelheid",
@@ -45,19 +45,19 @@
     "routingErrorDetails": "Probeer een nieuwe route",
     "saveError": "Fout met opslaan",
     "saveErrorDetails": "Probeer opnieuw",
-    "retry": "Opnieuw",
-    "originStationName": "Vertrekstation naam",
-    "destinationStationName": "Eindstation naam",
-    "originBusStationName": "Vertrekhalte naam",
-    "destinationBusStationName": "Eindhalte naam",
-    "originFerryTerminalName": "Vertrekhalte naam",
-    "destinationFerryTerminalName": "Vertrekhaven naam",
+    "retry": "Probeer opnieuw",
+    "originStationName": "Naam van vertrekstation",
+    "destinationStationName": "Naam van bestemmingsstation",
+    "originBusStationName": "Naam van vertrekkhalte",
+    "destinationBusStationName": "Naam van bestemmingshalte",
+    "originFerryTerminalName": "Naam van de vertrekhaven",
+    "destinationFerryTerminalName": "Naam van de bestemmingshaven",
     "manOrigin": "Handmatig vertrekpunt",
     "manDestination": "Handmatig aankomstpunt",
     "CC": "Landcode",
     "timings": "Tijden",
     "unknown": "Onbekend",
-    "preciseDates": "Exact",
+    "preciseDates": "Exacte data",
     "onlyDate": "Datum",
     "past": "Verleden",
     "future": "Toekomst",
@@ -228,6 +228,11 @@
         "Account verwijderen:",
         [
             "Als je je account wilt verwijderen, is dit momenteel niet direct geïmplementeerd, maar stuur een e-mail naar <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> en de beheerder zal doorgaan met het verwijderen van je account"
+        ],
+        "Hulp en ondersteuning :",
+        [
+            "Krijg advies, ondersteuning en sluit je aan bij de community op de Trainlog Discord met de link hieronder",
+            "Of neem contact op met de beheerder via <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a>"
         ]
     ],
     "error401Title": "Wacht even! 401 - Ticketcontrole",
@@ -279,5 +284,7 @@
     "NA": "Noord-Amerika",
     "CA": "Midden-Amerika",
     "SA": "Zuid-Amerika",
-    "OC": "Oceanië"
+    "OC": "Oceanië",
+    "countriesLoadingMessage": "<h3>Wacht alstublieft terwijl we uw dekking van het spoorwegnetwerk in kaart brengen</h3><br> Verwacht een langere laadtijd voor grotere spoorwegnetwerken (Nu kan het misschien tijd zijn om een kopje van uw favoriete warme drank te nemen ☕)",
+    "notes": "Notities"
 }
