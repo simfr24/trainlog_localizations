@@ -103,7 +103,7 @@
     "confirmDelete": "Weet je zeker dat je deze trip wilt verwijderen ?",
     "confirmMultiDelete": "Je staat op het punt om ${tripNumber} trips te verwijderen, weet je het zeker ?",
     "confirmConfirm": "ECHT zeker ?",
-    "trainChange": "Trein aanpassen",
+    "trainChange": "Overstap",
     "stationChange": "Station aanpassen",
     "copyLink": "Link gekopieerd",
     "lineName": "Naam van de lijn",
