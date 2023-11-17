@@ -102,7 +102,7 @@
     "shareTrip": "Skapa länk",
     "confirmDelete": "Är du säker på att du vill radera denna resa?",
     "confirmMultiDelete": "Du är på väg att radera ${tripNumber} resor, är du säker?",
-    "confirmConfirm": "Verkligen VERKLIGEN säker?",
+    "confirmConfirm": "Är du VERKLIGEN säker?",
     "trainChange": "Tågbyte",
     "stationChange": "Stationsskifte",
     "copyLink": "Länk kopierad",
@@ -238,9 +238,9 @@
     "error401Title": "Vänta! 401 - Biljettkontroll",
     "error401Body": "Du har inte en biljett till denna sida. Var vänlig logga in eller skaffa rätt behörigheter.",
     "error404Title": "Oj då! 404 - Förlorat Bagage",
-    "error404Body": "Det ser ut som att den här sidan åkte på sin egen resa! Kanske den ligger och latar sig på en strand någonstans?",
+    "error404Body": "Det ser ut som att den här sidan åkte på sin egen resa! Kanske den ligger och latar sig på en strand någonstans? (Sidan hittades inte)",
     "error410Title": "Åh nej! 410 - Resan Slutade",
-    "error410Body": "Denna reslänk har nått sin slutdestination och kommer inte att ge sig ut på fler resor. Den är borta permanent!",
+    "error410Body": "Denna reslänk har nått sin slutdestination och kommer inte att ge sig ut på fler resor. Den är borta permanent! (Sidan har tagits bort)",
     "error500Title": "Oj då! 500 - Tågavspårning",
     "error500Body": "Våra servrar har gått av spåret! Vi arbetar för att få dem tillbaka på rutten. Vänligen försök igen senare.",
     "leaderboardText": "Visas i den offentliga <a href='{leaderboard_url}'>topplistan</a>",
@@ -285,6 +285,6 @@
     "CA": "Centralamerika",
     "SA": "Sydamerika",
     "OC": "Oceanien",
-    "countriesLoadingMessage": "<h3>Vänligen vänta medan vi kartlägger din täckning av järnvägsnätet</h3><br> Förvänta längre laddningstid för större järnvägsnätverk (Nu kan det vara dags att ta en kopp av din favorit varma dryck ☕)",
+    "countriesLoadingMessage": "<h3>Vänligen vänta medan vi kartlägger din täckning av järnvägsnätet</h3><br> Förvänta längre laddningstid för större järnvägsnätverk (Nu kan det vara dags att ta en kopp av din varma favoritdryck. ☕)",
     "notes": "Anteckningar"
 }
