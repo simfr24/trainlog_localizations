@@ -38,7 +38,7 @@
     "projectList": "Lista planów",
     "pProjects": "Plany (publiczne)",
     "selectedTripList": "Wybrane podróże",
-    "tripLength": "Czas trwania podróży",
+    "tripLength": "Przebyty dystans",
     "tripSpeed": "Średnia prędkość",
     "actions": "działania",
     "routingError": "Błąd routingu",
@@ -66,7 +66,7 @@
     "tripStartDate": "Data podróży",
     "tripStartTime": "Czas rozpoczęcia podróży",
     "tripEndTime": "Czas zakończenia podróży",
-    "tripDuration": "Czas podróży",
+    "tripDuration": "Czas trwania podróży",
     "editTrip": "Edytuj podróż",
     "edit": "Edytuj",
     "hours": "Godziny",
@@ -190,7 +190,7 @@
             "Na stronach podróży (podróże i projekty) podróże są domyślnie wyświetlane z dzisiejszą datą na górze tabeli.",
             "Wyjazdy, których data rozpoczęcia przypada w przyszłości znajdują się na stronie projektów.",
             "Kolumny można sortować po kliknięciu nagłówka lub sortować za pomocą pola wyszukiwania.",
-            "Kliknięcie na każdy wiersz tabeli spowoduje jego wybranie i wyświetlenie paska menu dla wybranych wycieczek."
+            "Kliknięcie na każdy wiersz tabeli spowoduje jego wybranie i wyświetlenie paska menu dla wybranych podróży."
         ],
         "Pola specjalne:",
         [
@@ -211,7 +211,7 @@
         "Udostępnianie:",
         [
             "Jeżeli chcesz skorzystać z funkcjonalności udostępniania musisz włączyć ją w ustawieniach.",
-            "Każdą indywidualną wycieczkę można udostępnić poprzez menu po prawej stronie tabeli.",
+            "Każdą indywidualną podróż można udostępnić poprzez menu po prawej stronie tabeli.",
             "Wybierając wiele podróży i klikając przycisk „Utwórz link” na dole można udostępnić całą podróż obejmującą kilka podróży.",
             [
                 "Należy pamiętać, że taki link przestanie działać, jeśli zawiera jedną lub więcej podróży, które zostały usunięte."
@@ -242,7 +242,7 @@
     "error410Title": "O nie! 410 — Podróż zakończona",
     "error410Body": "Ten link dotarł do miejsca docelowego i nie wyruszy już w żadną podróż. Zniknął na stałe!",
     "error500Title": "Ups! 500 - Wykolejenie pociągu",
-    "error500Body": "Nasze serwery przestały działać! Pracujemy nad tym, aby przywrócić je na włąsciwe tory. Spróbuj ponownie później.",
+    "error500Body": "Nasze serwery przestały działać! Pracujemy nad tym, aby przywrócić je na właściwe tory. Spróbuj ponownie później.",
     "leaderboardText": "Pojawić się na pojawić w <a href='{leaderboard_url}'>rankingu</a>",
     "noData": "Brak danych do wyświetlenia",
     "importText": "Importuj plik Trainlog",
@@ -274,7 +274,7 @@
     "shareLevel1": "Ograniczony dostęp",
     "shareLevel2": "Dostęp do publicznego profilu",
     "shareLevel0Details": "Twoje konto pozostaje całkowicie prywatne. Nikt nie może przeglądać żadnych szczegółów ani treści.",
-    "shareLevel1Details": "Indywidualne wycieczki można udostępniać za pomocą identyfikatorów wycieczek, ukrywając dane osobowe. Jednak <a href='{public_link}'>profil publiczny</a> pozostaje niedostępny.",
+    "shareLevel1Details": "Indywidualne podróże można udostępniać za pomocą identyfikatorów podróży, ukrywając dane osobowe. Jednak <a href='{public_link}'>profil publiczny</a> pozostaje niedostępny.",
     "shareLevel2Details": "Do Twojego <a href='{public_link}'>publicznego profilu</a> można uzyskać dostęp za pomocą Twojej nazwy użytkownika.",
     "coverage": "Pokrycie",
     "leaderboard": "Tablica wyników",
@@ -285,6 +285,6 @@
     "CA": "Ameryka Środkowa",
     "SA": "Ameryka Południowa",
     "OC": "Oceania",
-    "countriesLoadingMessage": "<h3>Proszę czekać, mapujemy Twoje pokrycie sieci kolejowej</h3><br> Spodziewaj się dłuższego ładowania dla większych sieci kolejowych (Teraz może być czas na filiżankę Twojego ulubionego gorącego napoju ☕)",
+    "countriesLoadingMessage": "<h3>Cierpliwości! Obliczanie pokrycia sieci kolejowej.</h3><br> Obliczanie pokrycia sieci kolejowej może zająć nawet kilka minut, zwłaszcza w przypadku krajów z rozbudowaną siecią kolejową. (To znakomity moment na filiżankę ulubionego napoju z WARSu ☕)",
     "notes": "Notatki"
 }
