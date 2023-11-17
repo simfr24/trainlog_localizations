@@ -1,19 +1,19 @@
 {
     "langId": "fi",
-    "internationalWaters": "Kansainväliset vedet",
+    "internationalWaters": "Kansainväliset merialueet",
     "fetching": "Haetaan tietoja",
     "newTripTrain": "Uusi junamatka",
     "newTripAir": "Uusi lentomatka",
     "newTripBus": "Uusi bussimatka",
     "newTripFerry": "Uusi laivamatka",
     "originStation": "Lähtöasema",
-    "destinationStation": "Määränpään asema",
+    "destinationStation": "Määränpääasema",
     "originAirport": "Lähtölentokenttä",
-    "destinationAirport": "Määränpään lentokenttä",
+    "destinationAirport": "Määränpäälentokenttä",
     "originBusStation": "Lähtöbussipysäkki",
-    "destinationBusStation": "Määränpään bussipysäkki",
+    "destinationBusStation": "Määränpääbussipysäkki",
     "originFerryTerminal": "Lähtölauttaterminaali",
-    "destinationFerryTerminal": "Määränpään lauttaterminaali",
+    "destinationFerryTerminal": "Määränpäälauttaterminaali",
     "details": "Yksityiskohdat",
     "map": "Kartta",
     "bus": "Bussi",
@@ -22,7 +22,7 @@
     "newTripStart": "Matkan alku",
     "newTripEnd": "Matkan loppu",
     "submit": "Lähetä",
-    "noRelFound": "Linjaa ei löytynyt",
+    "noRelFound": "Reittiä ei löytynyt",
     "userName": "Käyttäjänimi",
     "password": "Salasana",
     "login": "Kirjaudu sisään",
@@ -123,7 +123,7 @@
     "dtSearch": "Haku:",
     "reg": "Rekisteröinti",
     "seat": "Istuin",
-    "material_type": "Materiaalin tyyppi",
+    "material_type": "Kaluston tyyppi",
     "travelTotals": "Matka ${first_trip_start} - ${last_trip_end} välillä",
     "all": "Kaikki",
     "ferry": "Lautta",
@@ -134,7 +134,7 @@
     "about": "Tietoja",
     "supportTrainlog": "Tue Trainlogia",
     "aboutText": "Trainlog on sovellus julkisen liikenteen matkojen tallentamiseen ja jakamiseen.",
-    "aboutHeader": "Kuinka se toimii:",
+    "aboutHeader": "Miten sivu toimii:",
     "aboutItems": [
         "Kaikki käytetty data on peräisin <a href='https://www.openstreetmap.org'>OSM</a>:sta",
         "Asemahaku tarjoaa <a href='https://photon.komoot.io'>Photon</a>",
@@ -151,27 +151,27 @@
         "Haku:",
         [
             "Jos asemaa ei löydy haulla, voit luoda sen manuaalisesti",
-            "Vain nimi on tarpeen:",
+            "Vain nimi on tarpeellinen:",
             [
                 "Jos koordinaatteja ei täytetä, nasta oletusarvoisesti [0,0], jonka jälkeen se voidaan siirtää haluttuun sijaintiin",
                 "Maa haetaan automaattisesti sijainnin perusteella"
             ],
             "Jos järjestelmä tuntee sen, operaattorikenttä näyttää operaattorin logon",
             [
-                "Ilmassa tämä kenttä hakee lentoyhtiön API:sta ja lataa sen logon automaattisesti",
+                "Lentokonematkoissa tämä kenttä hakee lentoyhtiön API:sta ja lataa sen logon automaattisesti",
                 "Muille ne päivitetään manuaalisesti Adminin toimesta"
             ]
         ],
         "Reititys:",
         [
-            "Vihreä nasta on alkuperä, Punainen on määränpää",
-            "Reitityssivulla sekä alkuperä- että määränpäänastat voidaan siirtää",
-            "Reititin tarttuu lähimpään tapaan nastasta, myös jos se tarkoittaa erittäin outoja reittejä, on joskus hyvä siirtää nasta saadakseen loogisemman reitin",
+            "Vihreä merkki on lähtöpaikka, Punainen on määränpää",
+            "Reitityssivulla sekä lähtöpaikka- että määränpäämerkit ovat siirrettävissä",
+            "Reititin valitsee lähimmän radan merkistä, vaikka se tarkoittaisi erittäin outoja reittejä. Joskus on hyvä siirtää merkki manuaalisesti, jotta saat oikean reitin.",
             "Reitillä napsauttaminen luo reittipisteenastan, jonka jälkeen se voidaan siirtää muuttamaan reittiä",
-            "Voit käyttää niin monta reittipistettä kuin tarvitset",
+            "Voit käyttää niin montaa reittipistettä kuin tarvitset",
             "Reitti yrittää ottaa nopeimman tien alkuperän ja määränpään välillä kulkiessaan kaikkien reittipisteiden kautta",
             "Km näyttää reitin todellisen etäisyyden",
-            "Näytetty data on arvaus reitin kestosta ja edustaa skenaariota, jossa ajoneuvo ajaisi koko matkan maksiminopeudella eikä koskaan pysähtyisi, sitä voidaan pitää teoreettisena miniminä",
+            "Näytetty aika on arvio reitin kestosta ja edustaa skenaariota, jossa ajoneuvo ajaisi koko matkan maksiminopeudella eikä koskaan pysähtyisi, sitä voidaan pitää teoreettisena miniminä",
             "Rajoitukset:",
             [
                 "Bussireitit ajavat oikealla puolella tietä, mutta eivät tällä hetkellä pysty käyttämään vain busseille tarkoitettuja teitä",
@@ -182,7 +182,7 @@
         [
             "Tallennettaessa kussakin maassa kuljettu etäisyys lasketaan ja lisätään tilastoihin",
             [
-                "Ilmassa etäisyys jaetaan kahtia ja annetaan lähtö- ja saapumismaiden mukaan"
+                "Lentokoneissa etäisyys jaetaan kahtia ja annetaan lähtö- ja saapumismaiden mukaan"
             ]
         ],
         "Näyttö:",
@@ -197,11 +197,11 @@
             "Kun matka on tallennettu, jotkut kentät ovat saatavilla muokkauspainikkeen kautta",
             "Materiaalityyppi on todellinen ajoneuvomalli, jolla matka on kuljettu:",
             [
-                "Ilmassa, jos ICAO-lentokonetyyppitunnus havaitaan, tämä kenttä näyttää lentokoneen ääriviivat (esim. CRJ9)"
+                "Lentokoneissa, jos ICAO-lentokonetyyppitunnus havaitaan, tämä kenttä näyttää lentokoneen ääriviivat (esim. CRJ9)"
             ],
             "Rekisteröinti on ajoneuvon rekisteröintinumero:",
             [
-                "Ilmassa, jos se on muotoiltu oikein (esim. PH-EZM):",
+                "Lentokoneissa, jos se on muotoiltu oikein (esim. PH-EZM):",
                 [
                     "Rekisteröintimaan lippu näytetään sen vieressä",
                     "Rekisteröinti muuttuu linkiksi tämän todellisen lentokoneen kuviin"
@@ -227,7 +227,7 @@
         ],
         "Poista tili:",
         [
-            "Jos haluat poistaa tilisi, sitä ei ole tällä hetkellä toteutettu suoraan, mutta lähetä sähköpostia osoitteeseen <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> ja Admin suorittaa tilisi poistamisen"
+            "Jos haluat poistaa tilisi, sitä ei ole tällä hetkellä toteutettu automaattisesti. Lähetä sähköpostia osoitteeseen <a href='mailto:admin@trainlog.me'>admin@trainlog.me</a> ja Admin suorittaa tilisi poistamisen"
         ],
         "Apua ja tukea :",
         [
@@ -236,20 +236,20 @@
         ]
     ],
     "error401Title": "Odota! 401 - Lipuntarkastus",
-    "error401Body": "Sinulla ei ole lippua tälle sivulle. Kirjaudu sisään tai hanki oikeat oikeudet.",
+    "error401Body": "Sinulla ei ole lippua tälle sivulle. Kirjaudu sisään tai hanki oikeanlaiset oikeudet.",
     "error404Title": "Hups! 404 - Kadonnut matkatavara",
-    "error404Body": "Näyttää siltä, että tämä sivu lähti omalle matkalleen! Ehkä se loikoilee jossain rannalla?",
+    "error404Body": "Näyttää siltä, että tämä sivu lähti omalle matkalleen! Ehkä se loikoilee jossain rannalla? (Sivua ei löytynyt.)",
     "error410Title": "Voi ei! 410 - Matka päättyi",
-    "error410Body": "Tämä matkalinkki on saavuttanut lopullisen määränpäänsä eikä lähde enää lisämatkoille. Se on pysyvästi poissa!",
+    "error410Body": "Tämä matkalinkki on saavuttanut lopullisen määränpäänsä eikä lähde enää lisämatkoille. (Verkkosivu poistettu.)",
     "error500Title": "Hups! 500 - Junan suistuminen raiteilta",
     "error500Body": "Palvelimemme ovat menneet väärälle raiteelle! Työskentelemme saadaksemme ne takaisin reitille. Yritä myöhemmin uudelleen.",
     "leaderboardText": "Näy julkisessa <a href='{leaderboard_url}'>tulostaulussa</a>",
     "noData": "Ei näytettäviä tietoja",
     "importText": "Tuo trainlog-tiedosto",
     "exportText": "Vie kaikki matkat csv-muodossa",
-    "import": "Tuonti",
-    "export": "Viedä",
-    "editPath": "Muokata",
+    "import": "Tuo",
+    "export": "Vie",
+    "editPath": "Muokkaa",
     "editedPath": "Muokattu polku",
     "resetPassword": "Nollaa salasanasi",
     "enterNewPassword": "Syötä uusi salasana",
@@ -261,7 +261,7 @@
     "noAccountWithEmail": "Tällä sähköpostiosoitteella ei löytynyt yhtään tiliä.",
     "invalidOrExpiredToken": "Virheellinen tai vanhentunut token.",
     "passwordUpdated": "Salasanasi on päivitetty!",
-    "passwordRequestEmailSubject": "Pyyntö salasanan nollaamiseen",
+    "passwordRequestEmailSubject": "Salasanan nollaamispyyntö",
     "passwordResetLinkText": "Klikkaa tästä nollataksesi salasanasi",
     "invalidCredentials": "Virheellinen käyttäjänimi tai salasana",
     "credentialsCantEmpty": "Käyttäjänimi tai salasana ei voi olla tyhjä",
@@ -272,9 +272,9 @@
     "shareLevelLabel": "Näkyvyys muille",
     "shareLevel0": "Yksityinen",
     "shareLevel1": "Rajoitettu pääsy",
-    "shareLevel2": "Julkisen profiilin käyttöoikeus",
+    "shareLevel2": "Julkisen profiilin näkyvyys",
     "shareLevel0Details": "Tilisi pysyy täysin yksityisenä. Kukaan ei voi nähdä yksityiskohtia tai sisältöä.",
-    "shareLevel1Details": "Yksittäisiä matkoja voidaan jakaa käyttäen matka-ID:eitä, henkilökohtaiset tiedot piilottaen. Mutta <a href='{public_link}'>julkinen profiili</a> pysyy saavuttamattomissa.",
+    "shareLevel1Details": "Yksittäisiä matkoja voidaan jakaa käyttäen matka-ID:itä, henkilökohtaiset tiedot piilottaen. Mutta <a href='{public_link}'>julkinen profiili</a> pysyy saavuttamattomissa.",
     "shareLevel2Details": "<a href='{public_link}'>Julkinen profiilisi</a> on saatavilla käyttäjänimesi kautta.",
     "coverage": "Kattavuus",
     "leaderboard": "Tulostaulukko",
@@ -285,6 +285,6 @@
     "CA": "Keski-Amerikka",
     "SA": "Etelä-Amerikka",
     "OC": "Oseania",
-    "countriesLoadingMessage": "<h3>Odota hetki, kun karttamme sinun kattavuutesi rautatieverkostossa</h3><br> Odota pidempi latausaika suuremmille rautatieverkoille (Nyt saattaa olla aika ottaa kuppi suosikki kuuma juomasi ☕)",
+    "countriesLoadingMessage": "<h3>Odota hetki, kun kartoitamme sinun tilastojasi.</h3><br> Suuremmille maille tämä kestää melko kauan (Nyt on erinomainen aika ottaa hieman kahvia ☕)",
     "notes": "Muistiinpanot"
 }
