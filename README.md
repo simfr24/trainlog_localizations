@@ -37,7 +37,7 @@ Trainlog.me is a trip diary website for travelers and train enthusiasts to log, 
 - 🇹🇷 [Turkish (tr)](./lang/tr.json)
 - 🇸🇪 [Swedish (sv)](./lang/sv.json)
 - 🇮🇹 [Italian (it)](./lang/it.json)
-- 🇷🇺 [Italian (it)](./lang/ru.json)
+- 🇷🇺 [Russian (ru)](./lang/ru.json)
 
 To add a new language, please follow our [Contribution Guidelines](#contribution-guidelines).
 
