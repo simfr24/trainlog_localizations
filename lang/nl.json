@@ -287,5 +287,8 @@
     "SA": "Zuid-Amerika",
     "OC": "Oceanië",
     "countriesLoadingMessage": "<h3>Wacht alstublieft terwijl we uw dekking van het spoorwegnetwerk in kaart brengen</h3><br> Verwacht een langere laadtijd voor grotere spoorwegnetwerken (Nu kan het misschien tijd zijn om een kopje van uw favoriete warme drank te nemen ☕)",
-    "notes": "Notities"
+    "notes": "Notities",
+    "subdivisions": "Onderverdelingen",
+    "invalidEmail": "Voer een geldig e-mailadres in.",
+    "usernameNoEmail": "Gebruik alstublieft geen e-mailadres als gebruikersnaam."
 }

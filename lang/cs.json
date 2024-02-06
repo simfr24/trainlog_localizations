@@ -287,5 +287,8 @@
     "SA": "Jižní Amerika",
     "OC": "Oceánie",
     "countriesLoadingMessage": "<h3>Prosím, vyčkejte, zatímco mapujeme vaše pokrytí železniční sítě</h3><br> U větších železničních sítí očekávejte delší načítání (Nyní může být vhodný čas na šálek vašeho oblíbeného horkého nápoje ☕)",
-    "notes": "Poznámky"
+    "notes": "Poznámky",
+    "subdivisions": "Pododdíly",
+    "invalidEmail": "Zadejte prosím platný e-mail.",
+    "usernameNoEmail": "Prosím, nepoužívejte e-mailovou adresu jako uživatelské jméno."
 }

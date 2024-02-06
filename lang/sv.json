@@ -287,5 +287,8 @@
     "SA": "Sydamerika",
     "OC": "Oceanien",
     "countriesLoadingMessage": "<h3>Vänligen vänta medan vi kartlägger din täckning av järnvägsnätet</h3><br> Förvänta längre laddningstid för större järnvägsnätverk (Nu kan det vara dags att ta en kopp av din varma favoritdryck. ☕)",
-    "notes": "Anteckningar"
+    "notes": "Anteckningar",
+    "subdivisions": "Underavdelningar",
+    "invalidEmail": "Vänligen ange en giltig e-postadress.",
+    "usernameNoEmail": "Vänligen använd inte en e-postadress som användarnamn."
 }

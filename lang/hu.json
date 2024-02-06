@@ -287,5 +287,8 @@
     "SA": "Dél-Amerika",
     "OC": "Óceánia",
     "countriesLoadingMessage": "<h3>Kérjük, várjon, amíg leképezzük a vasúthálózatra vonatkozó lefedettségét</h3><br> Várjon hosszabb betöltést nagyobb vasúti hálózatoknál (Most talán itt az ideje, hogy megragad egy csésze kedvenc forró italából ☕)",
-    "notes": "Jegyzetek"
+    "notes": "Jegyzetek",
+    "subdivisions": "Alrészek",
+    "invalidEmail": "Kérjük, adjon meg egy érvényes e-mail címet.",
+    "usernameNoEmail": "Kérjük, ne használjon e-mail címet felhasználónévként."
 }
