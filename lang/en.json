@@ -287,5 +287,8 @@
     "SA": "South America",
     "OC": "Oceania",
     "countriesLoadingMessage": "<h3>Please wait as we map your coverage of the rail network</h3><br> Expect longer loading for larger railway networks (Now may be the time to grab a cup of your favourite hot beverage ☕)",
-    "notes": "Notes"
+    "notes": "Notes",
+    "subdivisions": "Subdivisions",
+    "invalidEmail": "Please enter a valid email.",
+    "usernameNoEmail": "Please don't use an email address as a username."
 }

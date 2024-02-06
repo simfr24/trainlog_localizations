@@ -287,5 +287,8 @@
     "SA": "Sud America",
     "OC": "Oceania",
     "countriesLoadingMessage": "<h3>Si prega di attendere mentre mappiamo la tua copertura della rete ferroviaria</h3><br> Aspettatevi un caricamento più lungo per reti ferroviarie più grandi (Ora potrebbe essere il momento di prendere una tazza della tua bevanda calda preferita ☕)",
-    "notes": "Appunti"
+    "notes": "Appunti",
+    "subdivisions": "Suddivisioni",
+    "invalidEmail": "Inserisci un'email valida.",
+    "usernameNoEmail": "Per favore, non usare un indirizzo email come nome utente."
 }

@@ -287,5 +287,8 @@
     "SA": "Etelä-Amerikka",
     "OC": "Oseania",
     "countriesLoadingMessage": "<h3>Odota hetki, kun kartoitamme sinun tilastojasi.</h3><br> Suuremmille maille tämä kestää melko kauan (Nyt on erinomainen aika ottaa hieman kahvia ☕)",
-    "notes": "Muistiinpanot"
+    "notes": "Muistiinpanot",
+    "subdivisions": "Alaosiot",
+    "invalidEmail": "Ole hyvä ja anna voimassa oleva sähköpostiosoite.",
+    "usernameNoEmail": "Älä käytä sähköpostiosoitetta käyttäjänimenä."
 }

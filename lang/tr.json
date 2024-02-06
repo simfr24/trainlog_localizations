@@ -287,5 +287,8 @@
     "SA": "Güney Amerika",
     "OC": "Okyanusya",
     "countriesLoadingMessage": "<h3>Lütfen demiryolu ağınızın kapsamını haritalandırırken bekleyin</h3><br> Daha büyük demiryolu ağları için daha uzun yükleme süresi bekleyin (Şimdi, favori sıcak içeceğinizden bir fincan almanın zamanı olabilir ☕)",
-    "notes": "Notlar"
+    "notes": "Notlar",
+    "subdivisions": "Alt Bölümler",
+    "invalidEmail": "Lütfen geçerli bir e-posta girin.",
+    "usernameNoEmail": "Lütfen kullanıcı adı olarak bir e-posta adresi kullanmayın."
 }

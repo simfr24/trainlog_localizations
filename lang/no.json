@@ -287,5 +287,8 @@
     "SA": "Sør-Amerika",
     "OC": "Oseania",
     "countriesLoadingMessage": "<h3>Vennligst vent mens vi kartlegger din dekning av jernbanenettverket</h3><br> Forvent lengre lasting for større jernbanenettverk (Nå kan det være på tide å ta en kopp av din favoritt varme drikke ☕)",
-    "notes": "Notater"
+    "notes": "Notater",
+    "subdivisions": "Underavdelinger",
+    "invalidEmail": "Vennligst skriv inn en gyldig epost.",
+    "usernameNoEmail": "Vennligst ikke bruk en epostadresse som brukernavn."
 }

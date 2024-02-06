@@ -287,5 +287,8 @@
     "SA": "Südamerika",
     "OC": "Ozeanien",
     "countriesLoadingMessage": "<h3>Bitte warten Sie, während wir Ihre Abdeckung des Schienennetzes kartieren</h3><br> Rechnen Sie mit einer längeren Ladezeit für größere Schienennetze (Jetzt könnte der Moment sein, eine Tasse Ihres Lieblingsheißgetränks zu greifen ☕)",
-    "notes": "Notizen"
+    "notes": "Notizen",
+    "subdivisions": "Unterteilungen",
+    "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "usernameNoEmail": "Bitte verwenden Sie keine E-Mail-Adresse als Benutzernamen."
 }
