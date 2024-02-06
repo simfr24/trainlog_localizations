@@ -124,7 +124,7 @@
     "dtSearch": "Keresés:",
     "reg": "Bejegyzés",
     "seat": "Ülés",
-    "material_type": "Anyagtípus",
+    "material_type": "Járműtípus",
     "travelTotals": "Utazás ${first_trip_start} és ${last_trip_end} között",
     "all": "Minden",
     "ferry": "Komp",
@@ -196,7 +196,7 @@
         "Speciális mezők:",
         [
             "Az utazás elmentése után egyes mezők a szerkesztés gombbal érhetők el",
-            "Az anyagtípus az a tényleges járműmodell, amelyen az utazás megtörtént:",
+            "A járműtípus az a tényleges járműmodell, amelyen az utazás megtörtént:",
             [
                 "Repülőút esetében, ha a rendszer ICAO repülőgéptípus-jelölést észlel, ez a mező a repülőgép körvonalát mutatja (pl.: CRJ9)"
             ],
